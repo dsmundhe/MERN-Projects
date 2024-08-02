@@ -66,7 +66,7 @@ function Login() {
             </div>
             <button type="submit">Login</button>
           </form>
-          <p>{note}</p>
+          <p>{note}    </p>
           <p>
             Register <Link to="/">Here</Link>
           </p>
